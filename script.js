@@ -11,4 +11,4 @@ for (const narsa of letterSearch) {
     } 
 }
 
-alert(natijaTrue)
+alert( `n xarifi ` + natijaTrue + ` so'zlarida bor`)
